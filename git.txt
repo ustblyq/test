@@ -13,3 +13,4 @@ git merge dev
 git branch -d dev
 
 git log --graph --pretty=oneline --abbrev-commit
+git merge --no-ff -m "merge with no-ff" dev
