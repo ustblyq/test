@@ -20,3 +20,13 @@ git stash list
 git stash apply
 git stash drop
 git stash pop
+
+git remote -v
+
+git branch --set-upstream dev origin/dev
+
+git tag v1.0
+git tag
+git tag v0.9 6224937(commit id)
+git tag -d v0.1
+git push origin v1.0
