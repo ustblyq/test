@@ -10,3 +10,4 @@ git push --set-upstream origin master
 git checkout -b dev = git branch dev + git checkout dev
 
 git merge dev
+git branch -d dev
