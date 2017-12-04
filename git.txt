@@ -7,4 +7,6 @@ git remote rm origin
 git push -u origin master
 git push --set-upstream origin master
 
-git checkout -b dev
+git checkout -b dev = git branch dev + git checkout dev
+
+git merge dev
