@@ -4,3 +4,4 @@ hello world again!
 git checkout
 
 git rm
+ok
